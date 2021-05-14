@@ -2,8 +2,8 @@
 
 Olá! Bem vindo ao meu livro de receitas:wave:
 
-Bife a parmegiana
+* Bife a parmegiana
 
-Pavê
+* Pavê
 
-Bolo de Cenoura
+* Bolo de Cenoura
